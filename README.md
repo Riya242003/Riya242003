@@ -79,8 +79,8 @@
 
 ### 🌟 Let's Connect!
 📧 **Email**: [riyagupta242003@gmail.com](riyagupta242003@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/riya-gupta](https://www.linkedin.com/in/linkriyagupta/)  
-💻 **LeetCode**: [leetcode.com/u/riyagupta2003/](https://leetcode.com/u/riyagupta2003/)  
-🌐 **Hackerrank**: [Hackerrank.com/riya-gupta](https://www.hackerrank.com/profile/Riya2424)  
+💼 **LinkedIn**: [linkedIn](https://www.linkedin.com/in/linkriyagupta/)  
+💻 **LeetCode**: [leetcode](https://leetcode.com/u/riyagupta2003/)  
+🌐 **Hackerrank**: [Hackerrank](https://www.hackerrank.com/profile/Riya2424)  
 
 ---
