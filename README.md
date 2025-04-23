@@ -72,8 +72,7 @@
 ### 📌 Featured Projects
 1. **E-commerce Platform for Rural Areas** - Empowering local stores with online selling capabilities. 🛒
 2. **Medical Insurance Prediction Model** - Machine Learning model for predicting insurance charges based on patient data. 📊
-3. **Anthill Strategy Game** - Optimizing strategies to maximize the number of ants killed in a given time. 🐜
-4. **AWS CI/CD Pipeline** - Automated deployment setup using AWS CodeBuild and Pipelines. 🚀
+3. **AWS CI/CD Pipeline** - Automated deployment setup using AWS CodeBuild and Pipelines. 🚀
 
 ---
 
