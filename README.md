@@ -12,13 +12,13 @@
 ### Hii there, I'm Riya Gupta! 👋
 
 🚀 **Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast**  
-📚 **Pursuing Computer Science Engineering with Data Science**  
+📚 **Pursuing Computer Science Engineering**  
 
 ---
 
 ### 🔥 About Me
 - 💡 Passionate about **Machine Learning, Cloud Computing, and Full-Stack Development**
-- 💻 Skilled in **Python, C++, Java, JavaScript, HTML, CSS, MySQL**
+- 💻 Skilled in **Python, C++, HTML, CSS, JS, MySQL**
 - ☁️ Experienced in **AWS Services: Lambda, DynamoDB, EC2, S3, IAM, CodeBuild**
 - 🛠️ Currently working on multiple **real-world projects** to bridge the gap between theory and practical applications.
 
@@ -34,8 +34,8 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img width="14" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img width="14" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
@@ -72,7 +72,7 @@
 ### 📌 Featured Projects
 1. **E-commerce Platform for Rural Areas** - Empowering local stores with online selling capabilities. 🛒
 2. **Medical Insurance Prediction Model** - Machine Learning model for predicting insurance charges based on patient data. 📊
-3. **AWS CI/CD Pipeline** - Automated deployment setup using AWS CodeBuild and Pipelines. 🚀
+
 
 ---
 
