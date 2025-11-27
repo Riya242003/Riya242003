@@ -55,6 +55,10 @@
 ![IAM](https://img.shields.io/badge/AWS-IAM-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
 ![CodeBuild](https://img.shields.io/badge/AWS-CodeBuild-green?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<img width="14" />
 
 
