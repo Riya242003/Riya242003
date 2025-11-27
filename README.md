@@ -9,17 +9,16 @@
 
 
 
-### Hii there, I'm Riya Gupta! 👋
+### Hi there, I'm Riya Gupta! 👋
 
-🚀 **Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast**  
-📚 **Pursuing Computer Science Engineering**  
+🚀 **Aspiring Software Engineer | Full-Stack Developer | Data Engineer | Cloud Enthusiast**    
 
 ---
 
 ### 🔥 About Me
 - 💡 Passionate about **Machine Learning, Cloud Computing, and Full-Stack Development**
 - 💻 Skilled in **Python, C++, HTML, CSS, JS, MySQL**
-- ☁️ Experienced in **AWS Services: Lambda, DynamoDB, EC2, S3, IAM, CodeBuild**
+- ☁️ Experienced in **AWS Services: Lambda, DynamoDB, EC2, S3, IAM, CodeBuild, Microsoft Azure, ADF, Databrick**
 - 🛠️ Currently working on multiple **real-world projects** to bridge the gap between theory and practical applications.
 
 ---
@@ -55,16 +54,17 @@
 ![IAM](https://img.shields.io/badge/AWS-IAM-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
 ![CodeBuild](https://img.shields.io/badge/AWS-CodeBuild-green?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)<img width="14" />
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)<img width="14" />
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)<img width="14" />
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=azure-synapse&logoColor=white)<img width="14" />
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<img width="14" />
 
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<img width="14" />
-![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)<img width="14" />
+![Azure SQL Database](https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)<img width="14" />
 
 #### Web Development:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<img width="14" />
